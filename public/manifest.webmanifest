@@ -1,0 +1,18 @@
+{
+  "name": "NEON DUEL",
+  "short_name": "NEON DUEL",
+  "description": "Fast futuristic arena game",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070812",
+  "theme_color": "#070812",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
